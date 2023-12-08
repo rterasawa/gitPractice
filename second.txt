@@ -1,1 +1,1 @@
-This is the second file. It is so fun to practice git.
+This is the second file. It is so fun to practice git. This is so fun.
